@@ -227,7 +227,7 @@
 
   <div class="status" id="status">Ready to play...</div>
 
-  <footer>Made in ❤️ </footer>
+  <footer>Made in ❤️ for Pooja </footer>
 </div>
 
 <script>
